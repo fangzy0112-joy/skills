@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da432867-cc9c-4df3-a83b-116e94c7828e",
+  "path": "architecture-blueprint-generator",
+  "path_key": "architecture-blueprint-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/architecture-blueprint-generator",
+    "subpath": "skills\\architecture-blueprint-generator",
+    "branch": null
+  }
+}
