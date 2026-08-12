@@ -3,3 +3,6 @@ __pycache__/
 .idea/
 .vscode/
 
+Thumbs.db
+*.tmp
+.skills-manager.lock
