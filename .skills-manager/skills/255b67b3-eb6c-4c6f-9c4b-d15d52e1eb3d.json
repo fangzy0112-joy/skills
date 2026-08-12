@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "255b67b3-eb6c-4c6f-9c4b-d15d52e1eb3d",
+  "path": "improve-codebase-architecture",
+  "path_key": "improve-codebase-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
