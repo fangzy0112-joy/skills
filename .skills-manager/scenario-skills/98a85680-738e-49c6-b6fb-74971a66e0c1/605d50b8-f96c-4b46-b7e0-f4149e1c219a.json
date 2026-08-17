@@ -10,6 +10,7 @@
     "cursor": true,
     "gemini_cli": true,
     "github_copilot": true,
+    "qcoder": true,
     "windsurf": true
   }
 }
